@@ -1,0 +1,21 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 7c7f2745-de38-4fe7-8f03-68556ec2013f
+  # title:
+  # description:
+  keywords: []
+  authors: []
+  github: https://github.com/2i2c-org/demo-gallery
+  # bibliography: []
+site:
+  template: book-theme
+  # title:
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://mystmd.org/guide
+  domains: []

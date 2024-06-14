@@ -1,0 +1,6 @@
+name: demo-gallery
+channels:
+  - conda-forge
+dependencies:
+  - mystmd
+  - nodejs
