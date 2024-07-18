@@ -1,6 +1,6 @@
-# 2i2c Demo Gallery
+# Enabling Open Science Discoveries
 
-This gallery showcases demos from across the communities that 2i2c serves.
+ A gallery website for demonstrating open science discoveries at the knowledge frontier.
 
 :::::{grid} 1 1 2 2
 
