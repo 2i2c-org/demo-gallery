@@ -1,11 +1,15 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: 2i2c Demo Gallery
-  description: A gallery website to demonstrate community success stories.
+  title: Enabling Open Science Discoveries
+  description: A gallery website for demonstrating open science discoveries at the knowledge frontier.
   keywords: []
   authors: []
   copyright: '2024'
+  open_access: true
+  license:
+    code: GPL-3.0-or-later
+    content: CC-BY-4.0  
   github: https://github.com/2i2c-org/demo-gallery
   # bibliography: []
   toc:
@@ -13,12 +17,8 @@ project:
     - file: index.md
 site:
   template: book-theme
-  title: Title
   options:
   #   favicon: favicon.ico
     logo: img/logo-wide.png
   nav: []
-  actions:
-    - title: Learn More
-      url: https://mystmd.org/guide
   domains: []
