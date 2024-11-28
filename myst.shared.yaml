@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+
+project:
+  binder: https://binder.opensci.2i2c.cloud/
+
+site:
+  template: book-theme
+  nav: 
+    - title: Gallery
+      url: https://2i2c.org/demo-gallery
+      
+  actions:
+    - title: 2i2c
+      url: https://2i2c.org
