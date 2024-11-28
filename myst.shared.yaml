@@ -2,7 +2,8 @@
 version: 1
 
 project:
-  binder: https://binder.opensci.2i2c.cloud/
+  jupyter:
+    binder: https://binder.opensci.2i2c.cloud/
 
 site:
   template: book-theme
