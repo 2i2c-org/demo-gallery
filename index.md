@@ -1,4 +1,16 @@
-# Enabling Open Science Discoveries
+---
+site:
+  hide_title_block: true
+  hide_outline: true
+  hide_toc: true
+---
+
+% Make page widescreen
++++ {"class": "col-page-inset"}
+
+:::{hero}
+Enabling Open Science Discoveries
+:::
 
 Enabling learning and discovery with interactive computing.
 
@@ -12,10 +24,12 @@ Enabling learning and discovery with interactive computing.
 ::::
 
 ::::{card}
-:header: [icepyx](https://2i2c.org/demo-icepyx)
-:::{image} https://github.com/icesat2py/icepyx/blob/development/doc/source/_static/icepyx_v2_oval.png?raw=true
+:header: icepyx
+:link: http://2i2c.org/demo-icepyx/
+
+:::{image} https://raw.githubusercontent.com/icesat2py/icepyx/d0bc315aca35f0e2b64a0d88baacf33f3395e615/doc/source/_static/icepyx_v2_oval_orig_nobackgr.png
 :::
-icepyx is both a software library and a community composed of ICESat-2 data users, developers, and the scientific community. 
+Python tools for obtaining and working with ICESat-2 data
 ::::
 
 ::::{card}

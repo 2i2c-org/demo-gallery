@@ -7,10 +7,15 @@ project:
 
 site:
   template: book-theme
-  nav: 
+  nav:
     - title: Gallery
       url: https://2i2c.org/demo-gallery
-      
+
   actions:
     - title: 2i2c
       url: https://2i2c.org
+
+  options:
+    logo: https://raw.githubusercontent.com/2i2c-org/demo-gallery/main/img/logo-light.webp
+    logo_dark: https://raw.githubusercontent.com/2i2c-org/demo-gallery/main/img/logo-dark.webp
+    favicon: https://raw.githubusercontent.com/2i2c-org/demo-gallery/main/img/favicon.png
