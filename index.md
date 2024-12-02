@@ -17,7 +17,8 @@ Enabling learning and discovery with interactive computing.
 :::::{grid} 1 1 2 2
 
 ::::{card}
-:header: [TOPS-T ScienceCore: climaterisk](https://2i2c.org/demo-Sciencecore-climaterisk)
+:header: TOPS-T ScienceCore: climaterisk
+:link: https://2i2c.org/demo-Sciencecore-climaterisk/
 :::{image} https://github.com/2i2c-org/demo-Sciencecore-climaterisk/blob/main/book/assets/banner.jpg
 :::
 [NASA Transform to Open Science](https://science.nasa.gov/open-science/tops/https://nasa.github.io/Transform-to-Open-Science-Book/index.html)
@@ -33,15 +34,17 @@ Python tools for obtaining and working with ICESat-2 data
 ::::
 
 ::::{card}
-:header: [Project Pythia - Radar Cookbook](https://2i2c.org/demo-Project-Pythia)
-:::{image} https://raw.githubusercontent.com/ProjectPythia/projectpythia.github.io/ea3f5f47de29fb6591f929be2fcdf186e0a9d9bc/portal/_static/images/logos/pythia_logo-blue-btext.svg
-
+:header: Project Pythia - Radar Cookbook
+:link: https://2i2c.org/demo-Project-Pythia
+:::{image} https://2i2c.org/demo-Project-Pythia/build/phidp_kdp_comparison-9793f0626a055c40a2d3d06d287335c0.png
 :::
-Example: Radar Cookbook, a cookbook meant to work with various weather radar data.
+
+Example workflows for various weather radar data.
 ::::
 
 ::::{card}
-:header: [TOPS-T ScienceCore: SCHOOL](https://2i2c.org/demo-Sciencecore-SCHOOL)
+:header: TOPS-T ScienceCore: SCHOOL
+:link: https://2i2c.org/demo-Sciencecore-SCHOOL/
 :::{image} https://ciesin-geospatial.github.io/TOPSTSCHOOL-OSDMP/_images/school-logo.png
 :::
 Source: https://ciesin-geospatial.github.io/TOPSTSCHOOL-OSDMP/index.html
