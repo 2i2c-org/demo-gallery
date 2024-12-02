@@ -13,9 +13,11 @@ Body text
 
 ::::{card}
 :header: icepyx
-:::{image} https://images.unsplash.com/photo-1486246772917-8947d0f7f541?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+:link: http://2i2c.org/demo-icepyx/
+
+:::{image} https://raw.githubusercontent.com/icesat2py/icepyx/d0bc315aca35f0e2b64a0d88baacf33f3395e615/doc/source/_static/icepyx_v2_oval_orig_nobackgr.png
 :::
-Body text
+Python tools for obtaining and working with ICESat-2 data
 ::::
 
 ::::{card}
