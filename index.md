@@ -1,4 +1,16 @@
-# Enabling Open Science Discoveries
+---
+site:
+  hide_title_block: true
+  hide_outline: true
+  hide_toc: true
+---
+
+% Make page widescreen
++++ {"class": "col-page-inset"}
+
+:::{hero}
+Enabling Open Science Discoveries
+:::
 
 Enabling learning and discovery with interactive computing.
 
