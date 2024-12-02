@@ -16,6 +16,6 @@ site:
       url: https://2i2c.org
 
   options:
-    logo: img/logo-light.webp
-    logo_dark: img/logo-dark.webp
-    favicon: img/favicon.png
+    logo: https://raw.githubusercontent.com/2i2c-org/demo-gallery/main/img/logo-light.webp
+    logo_dark: https://raw.githubusercontent.com/2i2c-org/demo-gallery/main/img/logo-dark.webp
+    favicon: https://raw.githubusercontent.com/2i2c-org/demo-gallery/main/img/favicon.png
