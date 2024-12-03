@@ -1,10 +1,6 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 
-project:
-  jupyter:
-    binder: https://binder.opensci.2i2c.cloud/
-
 site:
   template: book-theme
   nav:
