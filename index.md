@@ -12,7 +12,7 @@ site:
 Enabling Open Science Discoveries
 :::
 
-Enabling learning and discovery with interactive computing.
+{large}`Enabling learning and discovery with interactive computing.`
 
 :::::{grid} 1 1 2 2
 

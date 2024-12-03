@@ -9,11 +9,12 @@ const heroDirective = {
       type: "div",
       style: {
         fontWeight: "bold",
-        fontSize: "4em",
+        fontSize: "3em",
         maxWidth: "50%",
         margin: ".5em auto",
         textAlign: "center",
         lineHeight: "normal",
+        overflowWrap: "normal",
       },
       children: data.body,
     };
