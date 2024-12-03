@@ -2,7 +2,8 @@
 version: 1
 
 site:
-  template: book-theme
+  template: https://raw.githubusercontent.com/2i2c-org/demo-gallery/main/theme.zip
+
   nav:
     - title: Gallery
       url: https://2i2c.org/demo-gallery
