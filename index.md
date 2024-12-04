@@ -9,7 +9,7 @@ site:
 +++ {"class": "col-page-inset"}
 
 :::{hero}
-Enabling Open Science Discoveries
+Enabling {bigBlue}`Open Science` Discoveries
 :::
 
 {large}`Enabling learning and discovery with interactive computing.`
