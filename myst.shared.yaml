@@ -5,12 +5,10 @@ site:
   template: https://raw.githubusercontent.com/2i2c-org/demo-gallery/main/theme.zip
 
   nav:
-    - title: Gallery
-      children: 
-        - title: Home
-          url: https://2i2c.org/demo-gallery/
-        - title: About
-          url: https://2i2c.org/demo-gallery/about
+    - title: Demo Gallery
+      url: https://2i2c.org/demo-gallery/
+    - title: About
+      url: https://2i2c.org/demo-gallery/about
 
   actions:
     - title: 2i2c
