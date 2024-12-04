@@ -42,13 +42,4 @@ Python tools for obtaining and working with ICESat-2 data
 Example workflows for various weather radar data.
 ::::
 
-::::{card}
-:header: TOPS-T ScienceCore: SCHOOL
-:link: https://2i2c.org/demo-Sciencecore-SCHOOL/
-:::{image} https://ciesin-geospatial.github.io/TOPSTSCHOOL-OSDMP/_images/school-logo.png
-:::
-Source: https://ciesin-geospatial.github.io/TOPSTSCHOOL-OSDMP/index.html
-
-::::
-
 :::::
