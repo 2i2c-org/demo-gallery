@@ -36,7 +36,7 @@ Python tools for obtaining and working with ICESat-2 data
 ::::{card}
 :header: Project Pythia - Radar Cookbook
 :link: https://2i2c.org/demo-Project-Pythia
-:::{image} https://github.com/2i2c-org/demo-Project-Pythia/blob/184402e8e4b5610e65f32099d376791f204ec8a6/images/phidp_kdp_comparison_cacti.png
+:::{image} https://github.com/2i2c-org/demo-Project-Pythia/blob/main/images/bokeh_plot_jmaradar_hr.png
 :::
 
 Example workflows for various weather radar data.
