@@ -14,7 +14,7 @@ Enabling Open Science Discoveries
 
 {large}`Enabling learning and discovery with interactive computing.`
 
-:::::{grid} 1 1 2 2
+:::::{grid} 1 1 2 3
 
 ::::{card}
 :header: TOPS-T ScienceCore: climaterisk
