@@ -28,7 +28,7 @@ Enabling {bigBlue}`Open Science` Discoveries
 :header: icepyx
 :link: http://2i2c.org/demo-icepyx/
 
-:::{image} https://github.com/icesat2py/icepyx/blob/d0bc315aca35f0e2b64a0d88baacf33f3395e615/doc/source/_static/icepyx_v2_oval_orig_nobackgr.png
+:::{image} https://github.com/2i2c-org/demo-icepyx/blob/1a43e4c2c23b5473d289bf9f02843963dd7ccc1f/content/images/is2_argo_figure.png
 :::
 Python tools for obtaining and working with ICESat-2 data
 ::::
