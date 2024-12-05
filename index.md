@@ -17,7 +17,7 @@ Enabling {bigBlue}`Open Science` Discoveries
 :::::{grid} 1 1 2 3
 
 ::::{card}
-:header: TOPS-T ScienceCore: climaterisk
+:header: TOPS-T ScienceCore: Climate Risks
 :link: https://2i2c.org/demo-Sciencecore-climaterisk/
 :::{image} https://github.com/2i2c-org/demo-Sciencecore-climaterisk/blob/c8ea979343f5110dc8fe37cdc8ae0a9f684e5c34/book/assets/banner.jpg
 :::
@@ -25,7 +25,7 @@ Enabling {bigBlue}`Open Science` Discoveries
 ::::
 
 ::::{card}
-:header: icepyx
+:header: Manipulating ICESat-2 Data with icepyx
 :link: http://2i2c.org/demo-icepyx/
 
 :::{image} https://github.com/2i2c-org/demo-icepyx/blob/1a43e4c2c23b5473d289bf9f02843963dd7ccc1f/content/images/is2_argo_figure.png
