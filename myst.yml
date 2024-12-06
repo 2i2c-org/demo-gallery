@@ -22,4 +22,4 @@ project:
     - file: about.md
 site:
   options:
-    logo_text: Demo Gallery
+    logo_text: Enabling Open Science Discoveries
