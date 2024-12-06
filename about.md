@@ -1,5 +1,41 @@
 # About
 
+## Why should I care about open science?
+
+[Open science](https://en.wikipedia.org/wiki/Open_science) is a set of principles that aim to improve the quality of scientific research by making it more accessible, reproducible and reusable. 2i2c's demo gallery is designed to showcase powerful and compelling examples of open science in practice that use interactive computing technologies.
+
+## What is interactive computing?
+
+Interactive computing is the ability to bring together data, computation and code that interacts with the user as it runs. [Project Jupyter](https://jupyter.org/) develops open-source software for interactive computing across multiple languages, such as **Ju**lia, **Py**thon and **R**. The Jupyter Notebook is a browser-based interface that allows users to write code and narrative (using Markdown) together in one file in order to bring data and analysis into a single document that can be shared with others.
+
+## Which open source tools make cloud-enabled interactive content sharing possible?
+
+Users limited by local resources (such as their laptop) can also reproduce and share their software environment, access larger datasets and access more compute in the cloud. The demos on this site these features by leveraging the following technologies
+
+_(insert grid from index.md here)_
+
+2i2c integrates these tools together to serve a variety of personas to unlock open science discoveries.
+
+## Who can benefit from this?
+
+_(add personas here)_
+
+## How can I get involved?
+
+We're always happy to grow our network of community hubs! We currently prioritize running infrastructure for a diverse group of organizations for both research and educational use-cases. In particular, we wish to serve institutions with limited resources or those from historically under-represented institutions.
+
+[**Join us**](https:2i2c.org/join)
+
+## How do I contribute?
+
+We welcome contributions from the community. Please visit our [GitHub repository](https://github.com/2i2c-org/demo-gallery) and open an issue to get started.
+
+## Acknowledgements
+
+The resources to provide the BinderHub and JupyterHub services for this demo gallery were provided by NASA NSPIRES F.15 High Priority Open-Source Science Award NNH22ZDA001N-HPOSS. Please see our [blog post](https://2i2c.org/blog/2024/nasa-ephemeral-hubs/) for more information.
+
+***
+
 :::{note}
 :name: note-launcher
 
@@ -13,37 +49,3 @@ Binder is a great tool for sharing code and data, but it can be slow to start up
 
 For more details, check out this [Jupyter Discourse post](https://discourse.jupyter.org/t/how-to-reduce-mybinder-org-repository-startup-time/4956).
 :::
-
-## Enabling Technologies
-
-:::::{grid} 2 3 4 4
-
-::::{card}
-:link: https://jupyter.org/
-:::{image} https://jupyter.org/assets/homepage/main-logo.svg
-:::
-:::: 
-
-::::{card} 
-:link: https://jupyter.org/hub
-:::{image} https://jupyter.org/assets/homepage/hublogo.svg
-::::
-
-::::{card} 
-:link: https://jupyter.org/binder
-:::{image} https://jupyter.org/assets/logos/binder.svg
-::::
-
-::::{card} 
-:link: https://mystmd.org/
-:::{image} https://mystmd.org/build/_assets/logo-wide-AK6GY6DB.svg 
-:::
-::::
-
-::::{card} 
-:link: https://next.jupyterbook.org/
-:::{image} https://next.jupyterbook.org/build/config-item-8634ffd3-26cb306075f4a5bc13a6da37b7a31cca.svg
-:::
-::::
-
-:::::
