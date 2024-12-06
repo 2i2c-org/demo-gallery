@@ -12,7 +12,7 @@ site:
 Enabling {bigBlue}`Open Science` Discoveries
 :::
 
-{large}`Enabling learning and discovery with interactive computing.`
+{large}`Learning and discovery with interactive computing.`
 
 :::::{grid} 1 1 2 2
 
@@ -21,7 +21,7 @@ Enabling {bigBlue}`Open Science` Discoveries
 :link: https://colliand.github.io/agu24-interactive-content-sharing-talk/slides
 :::{image} https://colliand.github.io/agu24-interactive-content-sharing-talk/build/agu24-1-270d07adb5dccd1bafd774e11a0d7467.png
 :::
-Exploring binder business models
+Exploring Binder business models
 ::::
 
 ::::{card}
@@ -29,7 +29,7 @@ Exploring binder business models
 :link: https://2i2c.org/demo-Sciencecore-climaterisk/
 :::{image} https://github.com/2i2c-org/demo-Sciencecore-climaterisk/blob/c8ea979343f5110dc8fe37cdc8ae0a9f684e5c34/book/assets/banner.jpg
 :::
-[NASA Transform to Open Science](https://science.nasa.gov/open-science/tops/https://nasa.github.io/Transform-to-Open-Science-Book/index.html)
+Example workflows for modelling climate risks with NASA Earthdata
 ::::
 
 ::::{card}
@@ -45,7 +45,7 @@ Python tools for obtaining and working with ICESat-2 data
 :link: https://2i2c.org/demo-Project-Pythia
 :::{image} https://github.com/2i2c-org/demo-Project-Pythia/blob/main/images/bokeh_plot_jmaradar_hr.png
 :::
-Example workflows for various weather radar data.
+Example workflows for various weather radar data
 ::::
 
 :::::
