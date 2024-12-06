@@ -1,19 +1,19 @@
 # Enabling Open Science Discoveries
 
-This is a gallery website that demonstrate examples of learning and discovery with interactive computing.
+This is a gallery website that demonstrates examples of learning and discovery with interactive computing.
 
 ## Technologies
 
-![](https://jupyter.org/assets/homepage/main-logo.svg "[Jupyter](https://jupyter.org/)")
+<a href="https://jupyter.org/"><img src="https://jupyter.org/assets/homepage/main-logo.svg" width="300" height="120"></a>
 
-![](https://jupyter.org/assets/homepage/hublogo.svg "[JupyterHub](https://jupyter.org/hub)")
+<a href="https://jupyter.org/hub"><img src="https://jupyter.org/assets/homepage/hublogo.svg" width="300" height="120"></a>
 
-![](https://jupyter.org/assets/logos/binder.svg "[Binder](https://jupyter.org/binder)")
+<a href="https://jupyter.org/binder"><img src="https://jupyter.org/assets/logos/binder.svg" width="280" height="100"></a>
 
-![](https://mystmd.org/build/_assets/logo-wide-AK6GY6DB.svg "[MyST MD](https://mystmd.org/)")
+<a href="https://mystmd.org/"><img src="https://mystmd.org/build/_assets/logo-wide-AK6GY6DB.svg" width="200" height="80"></a>
 
-![](https://next.jupyterbook.org/build/config-item-8634ffd3-26cb306075f4a5bc13a6da37b7a31cca.svg "[Jupyter Book](https://next.jupyterbook.org/)")
+<a href="https://next.jupyterbook.org/"><img src="https://next.jupyterbook.org/build/config-item-8634ffd3-26cb306075f4a5bc13a6da37b7a31cca.svg" width="300" height="120"></a>
 
 ## Acknowledgements
 
-Thank you to the authors of each of the demos! Further individual acknowledgments can be found on the landing page of each demo.
+Thank you to the authors of each of the demos! Further individual acknowledgements can be found on the landing page of each demo.
