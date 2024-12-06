@@ -51,8 +51,6 @@ Users limited by local resources (such as their laptop) can also reproduce and s
 :::::
 ::::::
 
-:::::::
-
 2i2c integrates these tools together to serve a variety of personas to unlock open science discoveries.
 
 ## Who can benefit from this?
