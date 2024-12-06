@@ -14,7 +14,7 @@ Enabling {bigBlue}`Open Science` Discoveries
 
 {large}`Enabling learning and discovery with interactive computing.`
 
-:::::{grid} 1 1 2 3
+:::::{grid} 1 1 2 2
 
 ::::{card}
 :header: Interactive Content Sharing
