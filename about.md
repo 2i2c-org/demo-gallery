@@ -65,13 +65,13 @@ Demo: [UC Berkeley Data Science Curriculum Guide](https://curriculum-guide.datah
 :::
 
 :::{card}
-An **instructor** convenes a workshop with interactive computational narratives. **Workshop participants** include scientists, policymakers, and other stakeholders. A public binder service provides a shared compute environment with access to cloud data. Participants can launch into a JupyterLab interface to edit code and explore datasets themselves.
+An **instructor** convenes a workshop with interactive computational narratives. **Workshop participants** include scientists, policymakers, and other stakeholders. A public BinderHub service provides a shared compute environment with access to cloud data. Participants can launch into a JupyterLab interface to edit code and explore datasets themselves.
 
 Demo: [TOPS-T ScienceCore: Climate Risks](https://2i2c.org/demo-Sciencecore-climaterisk/), [Project Pythia - Radar Cookbook](https://2i2c.org/demo-Project-Pythia/)
 :::
 
 :::{card}
-A **researcher** shares tutorials for a software library with live demonstrations. Some tutorials require access to a closed binder service with larger cloud computing resources for data processing routines. **Authorized users** can launch into a JupyterLab interface to edit code and explore datasets themselves using this larger resource.
+A **researcher** shares tutorials for a software library with live demonstrations. Some tutorials require access to a closed BinderHub service with larger cloud computing resources for data processing routines. **Authorized users** can launch into a JupyterLab interface to edit code and explore datasets themselves using this larger resource.
 
 Demo: [Manipulating ICESat-2 Data with icepyx](https://2i2c.org/demo-icepyx/)
 :::
