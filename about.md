@@ -13,6 +13,8 @@ Interactive computing is the ability to bring together data, computation and cod
 Users limited by local resources (such as their laptop) can also reproduce and share their software environment, access larger datasets and access more compute in the cloud. The demos on this site enables these features by leveraging the following technologies:
 
 ::::::{div}
+:name: tool-grid
+
 :::::{grid} 2 2 3 3
 ::::{card}
 :link: https://jupyter.org/
@@ -94,7 +96,7 @@ We welcome contributions from the community. Please visit our [GitHub repository
 
 The resources to provide the BinderHub and JupyterHub services for this demo gallery were provided by NASA NSPIRES F.15 High Priority Open-Source Science Award NNH22ZDA001N-HPOSS. Please see our [blog post](https://2i2c.org/blog/2024/nasa-ephemeral-hubs/) for more information.
 
-***
+---
 
 :::{note}
 :name: note-launcher
