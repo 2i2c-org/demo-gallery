@@ -159,13 +159,23 @@ const blockTransform = {
 
     utils.selectAll("*[class*=center-y]", node).forEach((child) => {
       const nextNode = structuredClone(child);
+      const innerDiv = {
+        type: "div",
+        children: [nextNode],
+        style: {
+          maxWidth: "128px",
+          width: "100%",
+          height: "fit-content",
+        },
+      };
       child.type = "div";
-      child.children = [nextNode];
+      child.children = [innerDiv];
       child.class = "";
       child.style = {
         display: "flex",
         height: "100%",
         alignItems: "center",
+        justifyContent: "center",
       };
     });
   },
