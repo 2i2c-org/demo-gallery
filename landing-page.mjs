@@ -157,15 +157,15 @@ const blockTransform = {
       node.children = [marginDiv];
     });
 
+    const widthRegex = /tool-badge-(\d+px)/;
     utils.selectAll("*[class*=tool-badge]", node).forEach((child) => {
       const nextNode = structuredClone(child);
+      const [, width] = child.class.match(widthRegex) ?? [];
       const innerDiv = {
         type: "div",
         children: [nextNode],
         style: {
-          maxWidth: "128px",
-          width: "100%",
-          height: "fit-content",
+          width: width ?? "128px",
         },
       };
       child.type = "div";
@@ -173,9 +173,9 @@ const blockTransform = {
       child.class = "";
       child.style = {
         display: "flex",
-        height: "100%",
         alignItems: "center",
         justifyContent: "center",
+        height: "100%",
       };
     });
   },
