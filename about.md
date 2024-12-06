@@ -67,13 +67,13 @@ Demo: [UC Berkeley Data Science Curriculum Guide](xref:datahub/#what-is-this-gui
 :::{card}
 An **instructor** convenes a workshop with interactive computational narratives. **Workshop participants** include scientists, policymakers, and other stakeholders. A public BinderHub service provides a shared compute environment with access to cloud data. Participants can launch into a JupyterLab interface to edit code and explore datasets themselves.
 
-Demo: [TOPS-T ScienceCore: Climate Risks](https://2i2c.org/demo-Sciencecore-climaterisk/), [Project Pythia - Radar Cookbook](https://2i2c.org/demo-Project-Pythia/)
+Demo: [TOPS-T ScienceCore: Climate Risks](xref:climaterisk/getting-nasa-earthdata-credentials#brief-introduction), [Project Pythia - Radar Cookbook](xref:pythia/moore-oklahoma-tornado#overview)
 :::
 
 :::{card}
 A **researcher** shares tutorials for a software library with live demonstrations. Some tutorials require access to a closed BinderHub service with larger cloud computing resources for data processing routines. **Authorized users** can launch into a JupyterLab interface to edit code and explore datasets themselves using this larger resource.
 
-Demo: [Manipulating ICESat-2 Data with icepyx](https://2i2c.org/demo-icepyx/)
+Demo: [Manipulating ICESat-2 Data with icepyx](xref:icepyx/quest-argo-data-access#define-the-quest-object)
 :::
 
 ::::
@@ -98,16 +98,5 @@ The resources to provide the BinderHub and JupyterHub services for this demo gal
 
 ---
 
-:::{note}
-:name: note-launcher
-
-The rocket button 🚀 can be used to open a specific page in a properly-configured BinderHub or JupyterHub. This can be used to explore published content in a fully-fledged editor (such as vscode, or JupyterLab), or access particular data-storage.
-:::
-
-:::{hint} Why does Binder take so long to launch?
-:name: hint-binder
-
-Binder is a great tool for sharing code and data, but it can be slow to start up. This is because Binder needs to build an image to provide the software environment that includes all of the dependencies needed to run your notebooks. The first time you use Binder, this process takes longer than usual. Subsequent launches are faster as the image is cached on the cloud and does not need to be rebuilt.
-
-For more details, check out this [Jupyter Discourse post](https://discourse.jupyter.org/t/how-to-reduce-mybinder-org-repository-startup-time/4956).
-:::
+![](xref:shared#note-launcher)
+![](xref:shared#hint-binder)

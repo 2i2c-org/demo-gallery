@@ -13,6 +13,10 @@ project:
     - landing-page.mjs
   references:
     datahub: https://curriculum-guide.datahub.berkeley.edu/
+    shared: https://2i2c.org/demo-shared-content/
+    climaterisk: https://2i2c.org/demo-Sciencecore-climaterisk/
+    icepyx: https://2i2c.org/demo-icepyx/
+    pythia: https://2i2c.org/demo-Project-Pythia/
   license:
     code: GPL-3.0-or-later
     content: CC-BY-4.0
