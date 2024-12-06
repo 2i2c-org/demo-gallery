@@ -12,19 +12,77 @@ Interactive computing is the ability to bring together data, computation and cod
 
 Users limited by local resources (such as their laptop) can also reproduce and share their software environment, access larger datasets and access more compute in the cloud. The demos on this site these features by leveraging the following technologies
 
-_(insert grid from index.md here)_
+<!-- ::::::{div}
+:::::{grid} 2 2 3 3
+::::{card}
+:link: https://jupyter.org/
+:::{image} https://jupyter.org/assets/homepage/main-logo.svg
+:class: center-y
+:::
+::::
+::::{card}
+:link: https://jupyter.org/hub
+:::{image} https://jupyter.org/assets/homepage/hublogo.svg
+:class: center-y
+::::
+::::{card}
+:link: https://jupyter.org/binder
+:::{image} https://jupyter.org/assets/logos/binder.svg
+:class: center-y
+::::
+::::{card}
+:link: https://mystmd.org/
+:::{image} https://mystmd.org/build/_assets/logo-wide-AK6GY6DB.svg
+:class: center-y
+:::
+::::
+::::{card}
+:link: https://next.jupyterbook.org/
+:::{image} https://next.jupyterbook.org/build/config-item-8634ffd3-26cb306075f4a5bc13a6da37b7a31cca.svg
+:class: center-y
+:::
+::::
+::::{card}
+:link: https://thebe.readthedocs.io/en/stable/
+:::{image} https://github.com/jupyter-book/thebe/blob/main/apps/simple/static/thebe_wide_logo.png
+:class: center-y
+:::
+::::
+:::::
+::::::
+
+::::::: -->
 
 2i2c integrates these tools together to serve a variety of personas to unlock open science discoveries.
 
 ## Who can benefit from this?
 
-_(add personas here)_
+::::{grid} 1
+:::{card}
+A **student** is taking a class and wants to reference curriculum material for their studies. They can visit a static MyST website authored and published by a **teaching assistant**.
+
+Demo: [UC Berkeley Data Science Curriculum Guide](https://curriculum-guide.datahub.berkeley.edu/)
+:::
+
+:::{card}
+An **instructor** convenes a workshop with interactive computational narratives. **Workshop participants** include scientists, policymakers, and other stakeholders. A public binder service provides a shared compute environment with access to cloud data. Participants can launch into JupyterLab interface to edit code and explore datasets themselves.
+
+Demo: [TOPS-T ScienceCore: Climate Risks](https://2i2c.org/demo-Sciencecore-climaterisk/), [Project Pythia - Radar Cookbook](https://2i2c.org/demo-Project-Pythia/)
+:::
+
+:::{card}
+A **researcher** shares tutorials for a software library with live demonstrations. Some tutorials require access to a closed binder service with larger cloud computing resources for data processing routines. **Authorized users** can launch into JupyterLab interface to edit code and explore datasets themselves using this larger resource.
+
+Demo: [Manipulating ICESat-2 Data with icepyx](https://2i2c.org/demo-icepyx/)
+:::
+
+::::
 
 ## How can I get involved?
 
 We're always happy to grow our network of community hubs! We currently prioritize running infrastructure for a diverse group of organizations for both research and educational use-cases. In particular, we wish to serve institutions with limited resources or those from historically under-represented institutions.
 
-[**Join us**](https:2i2c.org/join)
+[**Join our network**](https:2i2c.org/join)
 
 ## How do I contribute?
 
