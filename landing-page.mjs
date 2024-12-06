@@ -116,7 +116,7 @@ const blockTransform = {
             fontWeight: "bold",
             fontSize: "3em",
             maxWidth: "80%",
-            margin: "2em 2.2em auto auto",
+            margin: "2em auto auto auto",
             textAlign: "center",
             lineHeight: "normal",
             overflowWrap: "normal",
