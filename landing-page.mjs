@@ -71,6 +71,7 @@ const blockTitleDirective = {
 **/
 
 const colorRoles = Object.entries({
+  jupyter: "#F37626",
   bigBlue: "#1D4EF5",
   paleBlue: "#F2F5FC",
   midnight: "#230344",

@@ -16,7 +16,7 @@ Enabling {bigBlue}`Open Science` Discoveries
 :::::::{grid} 1 1 2 2
 
 :::{block-title}
-Learning and discovery with interactive computing.
+Learning and discovery with **{jupyter}`interactive computing`**
 :::
 
 ::::::{div}
