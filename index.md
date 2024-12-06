@@ -78,7 +78,7 @@ Exploring Binder business models
 :link: https://2i2c.org/demo-Sciencecore-climaterisk/
 :::{image} https://github.com/2i2c-org/demo-Sciencecore-climaterisk/blob/c8ea979343f5110dc8fe37cdc8ae0a9f684e5c34/book/assets/banner.jpg
 :::
-Example workflows for modelling climate risks with NASA Earthdata
+Using NASA Earthdata Cloud data to assess the risk of wildfire, drought, and flood
 ::::
 
 ::::{card}

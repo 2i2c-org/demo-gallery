@@ -1,5 +1,99 @@
 # About
 
+## Why should I care about open science?
+
+[Open science](https://en.wikipedia.org/wiki/Open_science) is a set of principles that aim to improve the quality of scientific research by making it more accessible, reproducible and reusable. 2i2c's demo gallery is designed to showcase powerful and compelling examples of open science in practice that use interactive computing technologies.
+
+## What is interactive computing?
+
+Interactive computing is the ability to bring together data, computation and code that interacts with the user as it runs. [Project Jupyter](https://jupyter.org/) develops open-source software for interactive computing across multiple languages, such as **Ju**lia, **Py**thon and **R**. The Jupyter Notebook is a browser-based interface that allows users to write code and narrative (using Markdown) together in one file in order to bring data and analysis into a single document that can be shared with others.
+
+## Which open source tools make cloud-enabled interactive content sharing possible?
+
+Users limited by local resources (such as their laptop) can also reproduce and share their software environment, access larger datasets and access more compute in the cloud. The demos on this site these features by leveraging the following technologies
+
+<!-- ::::::{div}
+:::::{grid} 2 2 3 3
+::::{card}
+:link: https://jupyter.org/
+:::{image} https://jupyter.org/assets/homepage/main-logo.svg
+:class: center-y
+:::
+::::
+::::{card}
+:link: https://jupyter.org/hub
+:::{image} https://jupyter.org/assets/homepage/hublogo.svg
+:class: center-y
+::::
+::::{card}
+:link: https://jupyter.org/binder
+:::{image} https://jupyter.org/assets/logos/binder.svg
+:class: center-y
+::::
+::::{card}
+:link: https://mystmd.org/
+:::{image} https://mystmd.org/build/_assets/logo-wide-AK6GY6DB.svg
+:class: center-y
+:::
+::::
+::::{card}
+:link: https://next.jupyterbook.org/
+:::{image} https://next.jupyterbook.org/build/config-item-8634ffd3-26cb306075f4a5bc13a6da37b7a31cca.svg
+:class: center-y
+:::
+::::
+::::{card}
+:link: https://thebe.readthedocs.io/en/stable/
+:::{image} https://github.com/jupyter-book/thebe/blob/main/apps/simple/static/thebe_wide_logo.png
+:class: center-y
+:::
+::::
+:::::
+::::::
+
+::::::: -->
+
+2i2c integrates these tools together to serve a variety of personas to unlock open science discoveries.
+
+## Who can benefit from this?
+
+::::{grid} 1
+:::{card}
+A **student** is taking a class and wants to reference curriculum material for their studies. They can visit a static MyST website authored and published by a **teaching assistant**.
+
+Demo: [UC Berkeley Data Science Curriculum Guide](https://curriculum-guide.datahub.berkeley.edu/)
+:::
+
+:::{card}
+An **instructor** convenes a workshop with interactive computational narratives. **Workshop participants** include scientists, policymakers, and other stakeholders. A public binder service provides a shared compute environment with access to cloud data. Participants can launch into JupyterLab interface to edit code and explore datasets themselves.
+
+Demo: [TOPS-T ScienceCore: Climate Risks](https://2i2c.org/demo-Sciencecore-climaterisk/), [Project Pythia - Radar Cookbook](https://2i2c.org/demo-Project-Pythia/)
+:::
+
+:::{card}
+A **researcher** shares tutorials for a software library with live demonstrations. Some tutorials require access to a closed binder service with larger cloud computing resources for data processing routines. **Authorized users** can launch into JupyterLab interface to edit code and explore datasets themselves using this larger resource.
+
+Demo: [Manipulating ICESat-2 Data with icepyx](https://2i2c.org/demo-icepyx/)
+:::
+
+::::
+
+## How can I get involved?
+
+We're always happy to grow our network of community hubs! We currently prioritize running infrastructure for a diverse group of organizations for both research and educational use-cases. In particular, we wish to serve institutions with limited resources or those from historically under-represented institutions.
+
+[**Join our network**](https:2i2c.org/join)
+
+## How do I contribute?
+
+We welcome contributions from the community. Please visit our [GitHub repository](https://github.com/2i2c-org/demo-gallery) and open an issue to get started.
+
+## Acknowledgements
+
+The resources to provide the BinderHub and JupyterHub services for this demo gallery were provided by NASA NSPIRES F.15 High Priority Open-Source Science Award NNH22ZDA001N-HPOSS. Please see our [blog post](https://2i2c.org/blog/2024/nasa-ephemeral-hubs/) for more information.
+
+***
+
 :::{note}
 :name: note-launcher
 
