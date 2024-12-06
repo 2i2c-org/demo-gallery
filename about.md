@@ -10,9 +10,9 @@ Interactive computing is the ability to bring together data, computation and cod
 
 ## Which open source tools make cloud-enabled interactive content sharing possible?
 
-Users limited by local resources (such as their laptop) can also reproduce and share their software environment, access larger datasets and access more compute in the cloud. The demos on this site these features by leveraging the following technologies
+Users limited by local resources (such as their laptop) can also reproduce and share their software environment, access larger datasets and access more compute in the cloud. The demos on this site enables these features by leveraging the following technologies:
 
-<!-- ::::::{div}
+::::::{div}
 :::::{grid} 2 2 3 3
 ::::{card}
 :link: https://jupyter.org/
@@ -51,7 +51,7 @@ Users limited by local resources (such as their laptop) can also reproduce and s
 :::::
 ::::::
 
-::::::: -->
+:::::::
 
 2i2c integrates these tools together to serve a variety of personas to unlock open science discoveries.
 
