@@ -61,7 +61,7 @@ Users limited by local resources (such as their laptop) can also reproduce and s
 :::{card}
 A **student** is taking a class and wants to reference curriculum material for their studies. They can visit a static MyST website authored and published by a **teaching assistant**.
 
-Demo: [UC Berkeley Data Science Curriculum Guide](https://curriculum-guide.datahub.berkeley.edu/)
+Demo: [UC Berkeley Data Science Curriculum Guide](xref:datahub/#what-is-this-guide-and-who-is-it-for)
 :::
 
 :::{card}
