@@ -5,14 +5,63 @@ site:
   hide_toc: true
 ---
 
-% Make page widescreen
-+++ {"class": "col-page-inset"}
+% Hero block
++++ {"class": "col-page-inset hero-block"}
 
-:::{hero}
 Enabling {bigBlue}`Open Science` Discoveries
+
+% Technology block
++++ {"class": "col-page-inset content-block"}
+
+:::::::{grid} 1 1 2 2
+
+:::{block-title}
+Learning and discovery with interactive computing.
 :::
 
-{large}`Learning and discovery with interactive computing.`
+::::::{div}
+:::::{grid} 2 2 3 3
+::::{card}
+:link: https://jupyter.org/
+:::{image} https://jupyter.org/assets/homepage/main-logo.svg
+:class: center-y
+:::
+::::
+::::{card}
+:link: https://jupyter.org/hub
+:::{image} https://jupyter.org/assets/homepage/hublogo.svg
+:class: center-y
+::::
+::::{card}
+:link: https://jupyter.org/binder
+:::{image} https://jupyter.org/assets/logos/binder.svg
+:class: center-y
+::::
+::::{card}
+:link: https://mystmd.org/
+:::{image} https://mystmd.org/build/_assets/logo-wide-AK6GY6DB.svg
+:class: center-y
+:::
+::::
+::::{card}
+:link: https://next.jupyterbook.org/
+:::{image} https://next.jupyterbook.org/build/config-item-8634ffd3-26cb306075f4a5bc13a6da37b7a31cca.svg
+:class: center-y
+:::
+::::
+::::{card}
+:link: https://thebe.readthedocs.io/en/stable/
+:::{image} https://github.com/jupyter-book/thebe/blob/main/apps/simple/static/thebe_wide_logo.png
+:class: center-y
+:::
+::::
+:::::
+::::::
+
+:::::::
+
+% Demos block
++++ {"class": "col-page-inset content-block"}
 
 :::::{grid} 1 1 2 2
 
@@ -49,3 +98,13 @@ Example workflows for various weather radar data
 ::::
 
 :::::
+
+% Footer block
++++ {"class": "col-page-inset content-block"}
+::::{block-title}
+
+2i2c helps communities build their own interactive computing hub in the cloud with open infrastructure.
+
+[Join our network of community hubs](https://2i2c.org/join/)
+
+::::

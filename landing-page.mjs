@@ -10,8 +10,8 @@ const heroDirective = {
       style: {
         fontWeight: "bold",
         fontSize: "3em",
-        maxWidth: "50%",
-        margin: ".5em auto",
+        maxWidth: "80%",
+        margin: "1em 2em auto auto",
         textAlign: "center",
         lineHeight: "normal",
         overflowWrap: "normal",
@@ -22,21 +22,53 @@ const heroDirective = {
   },
 };
 
-const largeRole = {
-  name: `large`,
-  doc: `A role for large text`,
+const blockTitleDirective = {
+  name: `block-title`,
+  doc: `A directive for a block section title`,
   body: {
     type: "myst",
   },
   run(data) {
-    const div = {
-      type: "span",
-      style: { fontSize: "1.5em" },
-      children: data.body,
+    const title = {
+      type: "div",
+      style: { fontSize: "2em", textAlign: "left" },
+      children: [
+        {
+          type: "paragraph",
+          children: data.body,
+        },
+      ],
     };
-    return [div];
+    return [title];
   },
 };
+/**  const div = {
+        type: "div",
+        children: [
+          {
+            type: "grid",
+            columns: [1, 1, 2, 2],
+            children: [title, ...data.body],
+          },
+        ],
+        style: {
+          margin: "4em auto",
+        },
+      };
+      return [div];
+    } else {
+      const div = {
+        type: "div",
+        class: "col-page-inset",
+        children: data.body,
+
+        style: {
+          margin: "4em auto",
+        },
+      };
+      return [div];
+    }
+**/
 
 const colorRoles = Object.entries({
   bigBlue: "#1D4EF5",
@@ -67,10 +99,82 @@ const colorRoles = Object.entries({
   };
 });
 
+const blockTransform = {
+  name: "block-transform",
+  doc: "A transform that pads blocks",
+  stage: "document",
+  plugin: (_, utils) => (node) => {
+    const blocks = utils.selectAll("block", node);
+    // Hero elements
+    blocks
+      .filter((block) => block.data?.class?.includes("hero"))
+      .forEach((node) => {
+        const div = {
+          type: "div",
+          style: {
+            fontWeight: "bold",
+            fontSize: "3em",
+            maxWidth: "80%",
+            margin: "2em 2.2em auto auto",
+            textAlign: "center",
+            lineHeight: "normal",
+            overflowWrap: "normal",
+          },
+          children: node.children,
+        };
+        node.children = [div];
+      });
+    // Named blocks
+    const contentBlocks = Array.from(
+      blocks.filter((block) => block.data?.class?.includes("content-block")),
+    );
+    contentBlocks.forEach((node, index) => {
+      let marginDivChildren;
+      if (index == 0) {
+        marginDivChildren = node.children;
+      } else {
+        marginDivChildren = [
+          {
+            type: "div",
+            children: [
+              {
+                type: "thematicBreak",
+              },
+            ],
+            style: { marginBottom: "4em" },
+          },
+          ...node.children,
+        ];
+      }
+      const marginDiv = {
+        type: "div",
+        style: {
+          margin: "2em auto",
+        },
+        children: marginDivChildren,
+      };
+      node.children = [marginDiv];
+    });
+
+    utils.selectAll("*[class*=center-y]", node).forEach((child) => {
+      const nextNode = structuredClone(child);
+      child.type = "div";
+      child.children = [nextNode];
+      child.class = "";
+      child.style = {
+        display: "flex",
+        height: "100%",
+        alignItems: "center",
+      };
+    });
+  },
+};
+
 const plugin = {
   name: "Landing page extensions",
-  roles: [largeRole, ...colorRoles],
-  directives: [heroDirective],
+  roles: [...colorRoles],
+  transforms: [blockTransform],
+  directives: [heroDirective, blockTitleDirective],
 };
 
 export default plugin;

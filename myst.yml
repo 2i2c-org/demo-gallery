@@ -22,4 +22,5 @@ project:
     - file: about.md
 site:
   options:
-    logo_text: Enabling Open Science Discoveries
+    logo: ./img/2i2c-logo-light.webp
+    logo_dark: ./img/2i2c-logo-dark.webp
