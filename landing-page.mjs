@@ -157,7 +157,7 @@ const blockTransform = {
       node.children = [marginDiv];
     });
 
-    utils.selectAll("*[class*=center-y]", node).forEach((child) => {
+    utils.selectAll("*[class*=tool-badge]", node).forEach((child) => {
       const nextNode = structuredClone(child);
       const innerDiv = {
         type: "div",

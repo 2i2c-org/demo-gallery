@@ -19,35 +19,35 @@ Users limited by local resources (such as their laptop) can also reproduce and s
 ::::{card}
 :link: https://jupyter.org/
 :::{image} https://jupyter.org/assets/homepage/main-logo.svg
-:class: center-y
+:class: tool-badge
 :::
 ::::
 ::::{card}
 :link: https://jupyter.org/hub
 :::{image} https://jupyter.org/assets/homepage/hublogo.svg
-:class: center-y
+:class: tool-badge
 ::::
 ::::{card}
 :link: https://jupyter.org/binder
 :::{image} https://jupyter.org/assets/logos/binder.svg
-:class: center-y
+:class: tool-badge
 ::::
 ::::{card}
 :link: https://mystmd.org/
 :::{image} https://mystmd.org/build/_assets/logo-wide-AK6GY6DB.svg
-:class: center-y
+:class: tool-badge
 :::
 ::::
 ::::{card}
 :link: https://next.jupyterbook.org/
 :::{image} https://next.jupyterbook.org/build/config-item-8634ffd3-26cb306075f4a5bc13a6da37b7a31cca.svg
-:class: center-y
+:class: tool-badge
 :::
 ::::
 ::::{card}
 :link: https://thebe.readthedocs.io/en/stable/
 :::{image} https://github.com/jupyter-book/thebe/blob/main/apps/simple/static/thebe_wide_logo.png
-:class: center-y
+:class: tool-badge
 :::
 ::::
 :::::
