@@ -76,6 +76,10 @@ Demo: [Manipulating ICESat-2 Data with icepyx](https://2i2c.org/demo-icepyx/)
 
 ::::
 
+:::{seealso}
+To access the big BinderHub you will need to be member of a NASA community. This requires a GitHub account for membership of the GitHub Team `2i2c-nasa-binder-access:big-binder-team` for authorization. Please send us an email at [binder-requests@2i2c.org](mailto:binder-requests@2i2c.org) to be added to the GitHub Team.
+:::
+
 ## How can I get involved?
 
 We're always happy to grow our network of community hubs! We currently prioritize running infrastructure for a diverse group of organizations for both research and educational use-cases. In particular, we wish to serve institutions with limited resources or those from historically under-represented institutions.
