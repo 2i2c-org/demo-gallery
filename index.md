@@ -29,11 +29,11 @@ Learning and discovery with **{jupyter}`interactive computing`**
 :::::{grid} 1 1 2 2
 
 ::::{card}
-:header: Interactive Content Sharing
-:link: https://colliand.github.io/agu24-interactive-content-sharing-talk/slides
-:::{image} https://colliand.github.io/agu24-interactive-content-sharing-talk/build/agu24-1-270d07adb5dccd1bafd774e11a0d7467.png
+:header: Right to Reproducible Execution
+:link: https://colliand.github.io/right-to-reproducible-execution/slides
+:::{image} https://raw.githubusercontent.com/colliand/right-to-reproducible-execution/main/content/assets/broadcast.png
 :::
-Exploring Binder business models
+Make Binder a Public Good
 ::::
 
 ::::{card}
