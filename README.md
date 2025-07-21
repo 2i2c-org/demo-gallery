@@ -12,7 +12,7 @@ This is a gallery website that demonstrates examples of learning and discovery w
 
 <a href="https://mystmd.org/"><img src="https://mystmd.org/build/_assets/logo-wide-AK6GY6DB.svg" width="200" height="80"></a>
 
-<a href="https://next.jupyterbook.org/"><img src="https://next.jupyterbook.org/build/config-item-8634ffd3-26cb306075f4a5bc13a6da37b7a31cca.svg" width="300" height="120"></a>
+<a href="https://next.jupyterbook.org/"><img src="https://raw.githubusercontent.com/jupyter-book/jupyter-book/refs/heads/next/docs/media/images/logo.svg" width="300" height="120"></a>
 
 ## Acknowledgements
 
