@@ -34,7 +34,7 @@ Users limited by local resources (such as their laptop) can also reproduce and s
 ::::
 ::::{card}
 :link: https://mystmd.org/
-:::{image} https://raw.githubusercontent.com/jupyter-book/mystmd.org/refs/heads/main/content/public/logo.svg
+:::{image} https://raw.githubusercontent.com/jupyter-book/myst-theme/refs/heads/main/docs/public/logo.svg
 :class: tool-badge
 :::
 ::::
