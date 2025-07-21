@@ -10,7 +10,7 @@ This is a gallery website that demonstrates examples of learning and discovery w
 
 <a href="https://jupyter.org/binder"><img src="https://jupyter.org/assets/logos/binder.svg" width="280" height="100"></a>
 
-<a href="https://mystmd.org/"><img src="https://mystmd.org/build/_assets/logo-wide-AK6GY6DB.svg" width="200" height="80"></a>
+<a href="https://mystmd.org/"><img src="https://raw.githubusercontent.com/jupyter-book/mystmd.org/refs/heads/main/content/public/logo.svg" width="200" height="80"></a>
 
 <a href="https://next.jupyterbook.org/"><img src="https://raw.githubusercontent.com/jupyter-book/jupyter-book/refs/heads/next/docs/media/images/logo.svg" width="300" height="120"></a>
 

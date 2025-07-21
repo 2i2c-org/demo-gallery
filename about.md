@@ -34,13 +34,13 @@ Users limited by local resources (such as their laptop) can also reproduce and s
 ::::
 ::::{card}
 :link: https://mystmd.org/
-:::{image} https://mystmd.org/build/_assets/logo-wide-AK6GY6DB.svg
+:::{image} https://raw.githubusercontent.com/jupyter-book/mystmd.org/refs/heads/main/content/public/logo.svg
 :class: tool-badge
 :::
 ::::
 ::::{card}
 :link: https://next.jupyterbook.org/
-:::{image} https://next.jupyterbook.org/build/config-item-8634ffd3-26cb306075f4a5bc13a6da37b7a31cca.svg
+:::{image} https://raw.githubusercontent.com/jupyter-book/jupyter-book/refs/heads/next/docs/media/images/logo.svg
 :class: tool-badge
 :::
 ::::
