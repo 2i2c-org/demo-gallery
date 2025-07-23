@@ -40,7 +40,7 @@ jobs:
           curl -O https://gist.githubusercontent.com/agoose77/d16e161a683d552a8a79833e722f0b96/raw/fbe71b06b1a926a3b59ac07e2a7158dbfc7c883b/myst.cjs
           echo b1986e27203e1cdda442e58889870c299e7fc8d8920c610127808336d72b6205  ./myst.cjs | sha256sum --check
       - name: Build HTML Assets
-        run: node ./myst.cjs -- build --html
+        run: node ./myst.cjs build --html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
