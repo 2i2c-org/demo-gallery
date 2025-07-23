@@ -6,9 +6,10 @@ site:
 ---
 
 % Hero block
-+++ {"class": "col-page-inset hero-block"}
-
++++ {"class": "col-page-inset content-block"}
+:::{hero}
 Enabling {bigBlue}`Open Science` Discoveries
+:::
 
 % Technology block
 +++ {"class": "col-page-inset content-block"}
