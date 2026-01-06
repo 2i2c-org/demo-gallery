@@ -30,11 +30,11 @@ Learning and discovery with **{jupyter}`interactive computing`**
 :::::{grid} 1 1 2 2
 
 ::::{card}
-:header: Right to Reproducible Execution
-:link: https://colliand.github.io/right-to-reproducible-execution/slides
-:::{image} https://raw.githubusercontent.com/colliand/right-to-reproducible-execution/main/content/assets/broadcast.png
+:header: Discovering the Higgs Boson
+:link: http://2i2c.org/demo-higgs-mass/
+:::{image} http://2i2c.org/demo-higgs-mass/build/542d8f3853cf67bf43968fdc6d450eaf.png
 :::
-Make Binder a Public Good
+Investigating the Higgs Boson analysis from CMS.
 ::::
 
 ::::{card}
