@@ -31,8 +31,8 @@ Learning and discovery with **{jupyter}`interactive computing`**
 
 ::::{card}
 :header: Discovering the Higgs Boson
-:link: http://2i2c.org/demo-higgs-mass/
-:::{image} http://2i2c.org/demo-higgs-mass/build/542d8f3853cf67bf43968fdc6d450eaf.png
+:link: https://2i2c.org/demo-higgs-mass/
+:::{image} https://higgszz.web.cern.ch/style/feynman_diagram.png
 :::
 Investigating the Higgs Boson analysis from CMS.
 ::::
